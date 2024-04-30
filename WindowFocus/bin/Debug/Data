@@ -1,0 +1,21 @@
+[0]
+str=NULL
+hWnd=0
+
+[1]
+str=Friends - Discord
+hWnd=196724
+
+[2]
+str=C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\DKC Projects++\WindowFocus\WindowFocus\bin\Debug\Data - Notepad++
+hWnd=66370
+
+[-1]
+str=keyboard shortcuts - How can I determine which process owns a hotkey in Windows? - Super User - Google Chrome
+hWnd=66854
+
+[Defaults]
+0 - Default=Chrome
+2 - Default=Twitch
+1 - Default=Discord
+
